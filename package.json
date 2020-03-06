@@ -1,0 +1,17 @@
+{
+  "name": "icssandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ical.js": "^1.3.0",
+    "file-saver": "^2.0.2",
+    "ics": "^2.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
